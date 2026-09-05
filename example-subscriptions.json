@@ -30,6 +30,11 @@
     "category": "Recommend"
   },
   {
+    "feedUrl": "https://aiweekly.co/feed",
+    "title": "AI Weekly",
+    "category": "Recommend"
+  },
+  {
     "feedUrl": "rsshub://nature/research/nature",
     "title": "Nature Research",
     "category": "Recommend"
